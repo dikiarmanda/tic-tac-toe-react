@@ -28,3 +28,7 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+.game {
+  display: flex;
+}
